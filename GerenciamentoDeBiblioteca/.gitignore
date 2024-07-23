@@ -1,0 +1,35 @@
+# Ignorar arquivos de compilação do Java
+*.class
+
+# Ignorar arquivos de pacotes do Java
+*.jar
+*.war
+*.ear
+
+# Ignorar diretórios de build
+/build
+/bin
+/target
+
+# Ignorar diretórios de dependências
+/.mvn
+/.gradle
+/.idea
+/.project
+/.settings
+
+# Ignorar arquivos de configuração do IDE
+*.iml
+*.swp
+*.swo
+*.DS_Store
+
+# Ignorar arquivos temporários e logs
+*.log
+*.tmp
+*.bak
+
+# Ignorar arquivos específicos do sistema operacional
+*.classpath
+*.project
+*.settings/
